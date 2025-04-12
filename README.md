@@ -44,5 +44,5 @@ The model captured the overall trend and produced a reasonable future estimate, 
 
 Below is the graph generated from our model's prediction:
 
-![Tesla Stock Price Forecast](images/Evaluation.png)
+![Tesla Stock Price Forecast](Evaluation.png)
 
